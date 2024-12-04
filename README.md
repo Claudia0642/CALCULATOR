@@ -1,2 +1,2 @@
 # CALCULATOR
-Calculator for the gir course.
+Calculator for the git course.
